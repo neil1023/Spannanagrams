@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFF2E07E-A510-460C-9406-6B04B05CB414</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Spannanagrams</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F45E362A-0005-4B7A-B32F-64F457E79662</key>
+		<string>ssh://github.com/Sirenity/Spannanagrams.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Spannanagrams/Spannanagrams.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F45E362A-0005-4B7A-B32F-64F457E79662</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Sirenity/Spannanagrams.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F45E362A-0005-4B7A-B32F-64F457E79662</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F45E362A-0005-4B7A-B32F-64F457E79662</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Spannanagrams</string>
+		</dict>
+	</array>
+</dict>
+</plist>
